@@ -1,0 +1,6 @@
+#ifndef BANCODADOS_H_INCLUDED
+#define BANCODADOS_H_INCLUDED
+
+void BancoDados();
+
+#endif // BANCODADOS_H_INCLUDED

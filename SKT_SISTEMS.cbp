@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="SKT_SISTEMS" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/SKT_SISTEMS" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/SKT_SISTEMS" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="AlteracaoCliente.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="AlteracaoCliente.h" />
+		<Unit filename="AlteracaoFuncionario.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="AlteracaoFuncionario.h" />
+		<Unit filename="AlteracaoPerfil.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="AlteracaoPerfil.h" />
+		<Unit filename="BancoDados.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="BancoDados.h" />
+		<Unit filename="CadastroCliente.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="CadastroCliente.h" />
+		<Unit filename="CadastroFuncionario.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="CadastroFuncionario.h" />
+		<Unit filename="CadastroPerfil.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="CadastroPerfil.h" />
+		<Unit filename="ConsultaCliente.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ConsultaCliente.h" />
+		<Unit filename="ConsultaFuncionario.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ConsultaFuncionario.h" />
+		<Unit filename="ConsultaPerfil.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ConsultaPerfil.h" />
+		<Unit filename="ExclusaoCliente.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ExclusaoCliente.h" />
+		<Unit filename="ExclusaoFuncionario.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ExclusaoFuncionario.h" />
+		<Unit filename="ExclusaoPerfil.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ExclusaoPerfil.h" />
+		<Unit filename="Interface.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Interface.h" />
+		<Unit filename="Log.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Log.h" />
+		<Unit filename="Login.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Login.h" />
+		<Unit filename="MenuSelecao.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="MenuSelecao.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>

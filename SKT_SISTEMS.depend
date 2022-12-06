@@ -1,0 +1,233 @@
+# depslib dependency file v1.0
+1669428043 source:c:\users\leonardo\desktop\skt_sistems\alteracaocliente.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	<dos.h>
+
+1669426277 source:c:\users\leonardo\desktop\skt_sistems\alteracaofuncionario.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	<dos.h>
+
+1669425970 source:c:\users\leonardo\desktop\skt_sistems\alteracaoperfil.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	<dos.h>
+
+1669420878 source:c:\users\leonardo\desktop\skt_sistems\bancodados.c
+
+1669427501 source:c:\users\leonardo\desktop\skt_sistems\cadastrocliente.c
+	<stdio.h>
+
+1669427444 source:c:\users\leonardo\desktop\skt_sistems\cadastrofuncionario.c
+	<stdio.h>
+
+1669419779 source:c:\users\leonardo\desktop\skt_sistems\cadastroperfil.c
+	<stdio.h>
+
+1669419152 source:c:\users\leonardo\desktop\skt_sistems\consultacliente.c
+	<stdio.h>
+
+1669426188 source:c:\users\leonardo\desktop\skt_sistems\consultafuncionario.c
+	<stdio.h>
+
+1669419270 source:c:\users\leonardo\desktop\skt_sistems\consultaperfil.c
+	<stdio.h>
+
+1669418785 source:c:\users\leonardo\desktop\skt_sistems\exclusaocliente.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	<dos.h>
+
+1669426958 source:c:\users\leonardo\desktop\skt_sistems\exclusaofuncionario.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	<dos.h>
+
+1669418995 source:c:\users\leonardo\desktop\skt_sistems\exclusaoperfil.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	<dos.h>
+
+1669428990 source:c:\users\leonardo\desktop\skt_sistems\interface.c
+	<windows.h>
+
+1669421097 source:c:\users\leonardo\desktop\skt_sistems\log.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	<dos.h>
+	<time.h>
+
+1669418635 source:c:\users\leonardo\desktop\skt_sistems\login.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	<dos.h>
+
+1669428951 source:c:\users\leonardo\desktop\skt_sistems\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<locale.h>
+	<windows.h>
+
+1669426928 source:c:\users\leonardo\desktop\skt_sistems\menuselecao.c
+
+1669428043 source:c:\users\leonardo\desktop\skt_sistems 2.0\alteracaocliente.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	<dos.h>
+
+1669426277 source:c:\users\leonardo\desktop\skt_sistems 2.0\alteracaofuncionario.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	<dos.h>
+
+1669425970 source:c:\users\leonardo\desktop\skt_sistems 2.0\alteracaoperfil.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	<dos.h>
+
+1669420878 source:c:\users\leonardo\desktop\skt_sistems 2.0\bancodados.c
+
+1670368889 source:c:\users\leonardo\desktop\skt_sistems 2.0\cadastrocliente.c
+	<stdio.h>
+
+1669427444 source:c:\users\leonardo\desktop\skt_sistems 2.0\cadastrofuncionario.c
+	<stdio.h>
+
+1669419779 source:c:\users\leonardo\desktop\skt_sistems 2.0\cadastroperfil.c
+	<stdio.h>
+
+1669419152 source:c:\users\leonardo\desktop\skt_sistems 2.0\consultacliente.c
+	<stdio.h>
+
+1669426188 source:c:\users\leonardo\desktop\skt_sistems 2.0\consultafuncionario.c
+	<stdio.h>
+
+1669419270 source:c:\users\leonardo\desktop\skt_sistems 2.0\consultaperfil.c
+	<stdio.h>
+
+1669418785 source:c:\users\leonardo\desktop\skt_sistems 2.0\exclusaocliente.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	<dos.h>
+
+1669426958 source:c:\users\leonardo\desktop\skt_sistems 2.0\exclusaofuncionario.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	<dos.h>
+
+1669418995 source:c:\users\leonardo\desktop\skt_sistems 2.0\exclusaoperfil.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	<dos.h>
+
+1669428990 source:c:\users\leonardo\desktop\skt_sistems 2.0\interface.c
+	<windows.h>
+
+1669421097 source:c:\users\leonardo\desktop\skt_sistems 2.0\log.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	<dos.h>
+	<time.h>
+
+1669418635 source:c:\users\leonardo\desktop\skt_sistems 2.0\login.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<ctype.h>
+	<dos.h>
+
+1669428951 source:c:\users\leonardo\desktop\skt_sistems 2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<locale.h>
+	<windows.h>
+
+1669426928 source:c:\users\leonardo\desktop\skt_sistems 2.0\menuselecao.c
+
